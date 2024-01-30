@@ -8,7 +8,7 @@ const Contact = () => {
 <div className="bg-[radial-gradient(ellipse_at_center,_var(--tw-gradient-stops))] from-primary to-transparent rounded-full h-80 w-80 z-0 blur-lg absolute top-3/4 -left-4 transform -translate-x-1/2 -translate-1/2">
 </div>
 <div className='z-10'>
-<h1 className='text-2xl font-semibold dark:text-white my-3'>Let's Connect</h1>
+<h1 className='text-2xl font-semibold dark:text-white my-3'>Let&apos;s Connect</h1>
 <p className="dark:text-[#ADB7BE]  text-black mb-4 w-full lg:max-w-md font-semibold">
           {" "}
           I&apos;m currently looking for new opportunities, my inbox is always

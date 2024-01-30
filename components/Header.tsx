@@ -14,7 +14,7 @@ const Header = () => {
                    
                  
                     <h1 className="mt-10 text-4xl font-bold tracking-tight text-gray-900 dark:text-white sm:text-6xl">
-                      Hello,I'm Olanrewaju Ajayi
+                      Hello,I&apos;m Olanrewaju Ajayi
                     </h1>
                     <p className="mt-6 text-lg leading-8 text-gray-600 dark:text-white">
                     A Passionate  
