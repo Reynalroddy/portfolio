@@ -1,4 +1,3 @@
-import Image from "next/image";
 import Header from "@/components/Header";
 import Stats from "@/components/Stats";
 import About from "@/components/About";
@@ -13,7 +12,6 @@ export default function Home() {
  <Projects/>
  <Contact/>
     </div>
-  
   );
 }    
 

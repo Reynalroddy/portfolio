@@ -11,8 +11,6 @@ const Header = () => {
               <div className="px-6 lg:px-0 lg:pt-4">
                 <div className="mx-auto max-w-2xl">
                   <div className="max-w-lg">
-                   
-                 
                     <h1 className="mt-10 text-4xl font-bold tracking-tight text-gray-900 dark:text-white sm:text-6xl">
                       Hello,I&apos;m Olanrewaju Ajayi
                     </h1>
@@ -38,12 +36,12 @@ const Header = () => {
                     </p>
                     <div className="mt-10 flex items-center gap-x-6">
                       <a
-                        href="#"
+                        href="#contact"
                         className="rounded-md bg-primary px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-primary focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-primary"
                       >
                         Hire Me
                       </a>
-                      <a href="#" className="text-sm font-semibold leading-6 text-gray-900 dark:text-white">
+                      <a href="OlanrewajuSoftwareEngineer.pdf" download className="text-sm font-semibold leading-6 text-gray-900 dark:text-white">
                         Download CV <span aria-hidden="true">→</span>
                       </a>
                     </div>

@@ -11,7 +11,7 @@ export const project=[
     },
     {
         title: "Electronic Vital registration vital  admin system.",
-        details: "The Electronic Civil Registration Vital System (ECRVS) is a comprehensive electronic registration platform designed to facilitate the efficient management of vital statistics, including birth registration, stillbirth registration, birth attestation, adoption, marriage notification, divorce notification, migration and death records.The Geospatial Digital CRVS System was launched by the president of the federal Government of Nigeria.",
+        details: "The Electronic Civil Registration Vital System (ECRVS) is a comprehensive electronic registration platform designed to facilitate the efficient management of vital statistics in Nigeria, including birth registration, stillbirth registration, birth attestation, adoption, marriage notification, divorce notification, migration and death records.The Geospatial Digital CRVS System was launched by the president of the federal Government of Nigeria.",
         image: "/ecrvs.png"
     }
 ]

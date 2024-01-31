@@ -24,7 +24,7 @@ const Skills =()=>{
     return <div className="">
        
           {/* <DotIcon className='h-[2rem] w-[2rem]  transition-all  dark:text-white' /> */}
-          <p className='dark:text-white text-md font-semibold my-4 '>
+          <p className='text-gray-600 dark:text-white text-md font-semibold my-4 '>
 JavaScript, React, Next-js, Redux,Tailwind CSS, Node.js, React-native, Express, PostgreSQL, Mongo DB, Prime-react,Prisma ORM, SQL, Sequelize, HTML, CSS, and Git
 </p>
     </div>
@@ -32,7 +32,7 @@ JavaScript, React, Next-js, Redux,Tailwind CSS, Node.js, React-native, Express, 
 
 
 const Education =()=>{
-    return           <p className='dark:text-white text-md font-semibold my-4 '>
+    return           <p className='text-gray-600 dark:text-white text-md font-semibold my-4 '>
    B.S.C Computer Science,Federal University of Agriculture Abeokuta(FUNAAB).
     </p>
 }

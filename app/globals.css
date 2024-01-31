@@ -59,3 +59,11 @@
     @apply bg-background text-foreground;
   }
 }
+
+html{
+  scroll-behavior: smooth;
+}
+
+body{
+  transition: all 2s linear;
+}
