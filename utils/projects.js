@@ -13,5 +13,16 @@ export const project=[
         title: "Electronic Vital registration vital  admin system.",
         details: "The Electronic Civil Registration Vital System (ECRVS) is a comprehensive electronic registration platform designed to facilitate the efficient management of vital statistics in Nigeria, including birth registration, stillbirth registration, birth attestation, adoption, marriage notification, divorce notification, migration and death records.The Geospatial Digital CRVS System was launched by the president of the federal Government of Nigeria.",
         image: "/ecrvs.png"
+    },
+
+    {
+        title: "Jobify.",
+        details:"Jobify is a comprehensive job tracking application designed to empower job seekers in managing their job search effectively. With Jobify, users can organize job applications, track application statuses, and analyze job search progress. It simplifies the job hunting process, providing a centralized platform for keeping track of job opportunities and staying organized throughout the job search journey.",
+        image: "/job.png",
+        link:'https://jobify-next-iclgrp0y0-reynalroddy.vercel.app/',
     }
+
+
+
+    
 ]
