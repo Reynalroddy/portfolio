@@ -16,15 +16,16 @@ const ProjectCard = ({item}:any) => {
   return (
     <Card className='group relative overflow-hidden h-52 md:h-72 w-full'>
         <img src={item.image}  alt='' className='overlay absolute top-0 left-0 w-full h-full' />
-         <div className="overlay absolute top-0 left-0 w-full h-full bg-[#181818] bg-opacity-0 hidden group-hover:flex group-hover:bg-opacity-80 transition-all duration-500 items-center justify-center gap-3">
+         <div className="overlay absolute top-0 left-0 w-full h-full bg-[#181818] bg-opacity-0 hidden group-hover:flex group-hover:bg-opacity-80 transition-all duration-500 items-center flex-col justify-center gap-3">
 <DialogDemo item={item}/>
 {item?.link &&
 <Link href={item.link} target='_blank'>
-<EyeIcon className='h-[1rem] w-[1rem] text-black dark:text-white'/>
-</Link>
-}
-
-        </div>
+      <Button >
+      <EyeIcon className="mr-2 h-4 w-4" /> view live project
+    </Button>
+    </Link>
+}  
+</div>
     <CardHeader>
       <CardTitle>Card Title</CardTitle>
       <CardDescription>Card Description</CardDescription>

@@ -3,7 +3,7 @@ import Link from 'next/link';
 import Image from 'next/image';
 import GithubIcon from "../public/github-icon.svg";
 import LinkedinIcon from "../public/linkedin-icon.svg";
-
+import MediumIcon from "../public/medium.svg";
 const Contact = () => {
   return (
     <section className='relative py-5 grid grid-cols-1 lg:grid-cols-2' id="contact" >
@@ -21,12 +21,16 @@ const Contact = () => {
 </div>
 
 <div className='flex items-center gap-3 text-right md:text-'>
-<div className="socials flex flex-row gap-2">
+<div className="socials flex flex-row gap-2 items-center">
           <Link href="https://github.com/Reynalroddy" target='_blank' className='bg-black dark:bg-transparent rounded-md'>
             <Image src={GithubIcon} alt="Github Icon" />
           </Link>
           <Link href="https://www.linkedin.com/in/olanrewaju-ajayi-3066a01a8/" target='_blank' className='bg-black dark:bg-transparent rounded-md'>
             <Image src={LinkedinIcon} alt="Linkedin Icon" />
+          </Link>
+
+          <Link href="https://medium.com/@dolapoajayi28" target='_blank' className='bg-white  h-[34px] w-[34px] p-1 rounded'>
+            <Image src={MediumIcon} alt="Linkedin Icon" className='h-full w-full' />
           </Link>
         </div>
 </div>

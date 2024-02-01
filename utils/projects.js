@@ -20,8 +20,13 @@ export const project=[
         details:"Jobify is a comprehensive job tracking application designed to empower job seekers in managing their job search effectively. With Jobify, users can organize job applications, track application statuses, and analyze job search progress. It simplifies the job hunting process, providing a centralized platform for keeping track of job opportunities and staying organized throughout the job search journey.",
         image: "/job.png",
         link:'https://jobify-next-iclgrp0y0-reynalroddy.vercel.app/',
-    }
-
+    },
+    {
+        title: "Cryptocurrency Mining Platform",
+        details:"cxchainflow is  a trusted cryptocurrency mining company. The platform offers investors a secure and legal way to earn various cryptocurrencies through blockchain technology. Recognized by global investors and regulatory bodies.",
+        image: "/invest.png",
+        link:'https://cxchainflow.live/',
+    },
 
 
     
