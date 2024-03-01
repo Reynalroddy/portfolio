@@ -11,6 +11,7 @@ export default function Home() {
  <About/>
  <Projects/>
  <Contact/>
+ <h1>test2</h1>
     </div>
   );
 }    
