@@ -39,6 +39,13 @@ export const project = [
     details:
       "Introducing Glowing Stars Gym Web App: Seamlessly sign in, register, and access the gym by scanning barcodes. Active users can easily manage their gym subscriptions hassle-free. Experience convenience at its best.",
     image: "/gym.png",
-    link: "https://osimiri-web.vercel.app/",
+    link: "https://deglowingstarsgym.com",
+  },
+  {
+    title: "Meezaq",
+    details:
+      "Specialized in importing range of luxury items for their clients. Be it Home materials, Royal-furnitures (Home and Offices), Light fittings, Bathroom accessories, Doors, Tiles, and much more..",
+    image: "/meezaq.png",
+    link: "https://www.meezaq.com.ng",
   },
 ];
